@@ -1,12 +1,12 @@
 {
-  "layer": "top", "position": "top",
+  "layer": "top", "position": "right",
   "modules-left": ["custom/logo", "clock",  "custom/weather", "disk", "memory", "cpu", "temperature", "custom/powerDraw", "hyprland/window" ],
   "modules-center": [  "hyprland/workspaces"],
   "modules-right": ["tray",  "custom/clipboard", "backlight", "idle_inhibitor", "custom/colorpicker", "bluetooth", "pulseaudio", "network",  "battery" ],
   "reload_style_on_change":true,
 
   "custom/logo": {
-    "format": "",
+    "format": "",
     "tooltip": false
   },
 
