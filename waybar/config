@@ -16,8 +16,8 @@
        }
   },
 
-  "vertcalclock": {
-    "exec": "~/.config/waybar/clock.sh",
+  "verticalclock": {
+    "exec": "~/.config/waybar/verticalclock.sh",
     "interval": 1,
     "format": "{}"
   },
