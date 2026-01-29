@@ -1,25 +1,28 @@
 {
   "layer": "top", "position": "right",
-  "modules-left": ["verticalclock"],
+  "modules-left": ["custom/verticalclock"],
   "modules-center": [  "hyprland/workspaces"],
   "modules-right": [],
   "reload_style_on_change":true,
 
   "hyprland/workspaces": {
+
 	"format": "{icon}",
+
 	"format-icons": {
-		"active": "",
-		"default": "" 
-	},
+		  "active": "",
+		  "default": "" 
+	  },
+
        "persistent-workspaces": {
          "*": [ 2, 3, 4, 5, 6 ]
        }
   },
 
-  "verticalclock": {
+  "custom/verticalclock": {
     "exec": "~/.config/waybar/verticalclock.sh",
     "interval": 1,
-    "format": "{}"
+    "format": "{}",
   },
 }
 
