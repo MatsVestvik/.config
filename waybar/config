@@ -4,7 +4,7 @@
   "height": "100%",
   "width": 0,
   
-  "modules-left": ["custom/hour-tens", "custom/hour-ones", "custom/minute-tens", "custom/minute-ones"],
+  "modules-left": ["custom/hour-tens", "custom/hour-ones","custom/colon", "custom/minute-tens", "custom/minute-ones"],
   "modules-center": ["hyprland/workspaces"],
   "modules-right": [],
   
@@ -27,6 +27,12 @@
   
   "custom/hour-ones": {
     "exec": "date +'%H' | cut -c2",
+    "interval": 1,
+    "format": "{}"
+  },
+
+  "custom/colon": {
+    "exec": "echo ':'",
     "interval": 1,
     "format": "{}"
   },
