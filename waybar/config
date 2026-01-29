@@ -1,14 +1,9 @@
 {
   "layer": "top", "position": "right",
-  "modules-left": ["custom/logo", "clock",  "custom/weather", "disk", "memory", "cpu", "temperature", "custom/powerDraw", "hyprland/window" ],
+  "modules-left": ["clock"],
   "modules-center": [  "hyprland/workspaces"],
-  "modules-right": ["tray",  "custom/clipboard", "backlight", "idle_inhibitor", "custom/colorpicker", "bluetooth", "pulseaudio", "network",  "battery" ],
+  "modules-right": [],
   "reload_style_on_change":true,
-
-  "custom/logo": {
-    "format": "",
-    "tooltip": false
-  },
 
   "hyprland/workspaces": {
 	"format": "{icon}",
@@ -21,21 +16,6 @@
        }
 },
 
-"idle_inhibitor":{
-  "format": "<span font='12'>{icon} </span>",
-  "format-icons": {
-    "activated":"󰈈",
-    "deactivated":"󰈉"
-  }
-},
-
-"custom/weather": {
-  "format": "{}",
-  "return-type": "json",
-  "exec": "~/.config/waybar/scripts/weather.sh",
-  "interval": 10,
-  "on-click": "firefox https://wttr.in"
-},
 
 "custom/clipboard":{
   "format":"",
@@ -43,19 +23,15 @@
   "interval":86400
 },
 
-
 "clock": {
-      "format": "{:%I:%M:%S %p}",
-      "interval":1,
-      "tooltip-format": "\n<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-      "calendar-weeks-pos": "right",
-      "today-format": "<span color='#7645AD'><b><u>{}</u></b></span>",
-      "format-calendar": "<span color='#aeaeae'><b>{}</b></span>",
-      "format-calendar-weeks": "<span color='#aeaeae'><b>W{:%V}</b></span>",
-      "format-calendar-weekdays": "<span color='#aeaeae'><b>{}</b></span>"
-      },
+  "format": "{:%H:%M}",
+  "format-alt": "{:%H:%M:%S}",
+  "tooltip-format": "<tt><small>{calendar}</small></tt>",
+  "interval": 1
+},
 
-  "bluetooth": {
+
+"bluetooth": {
   "format-on": "",
   "format-off": "",
   "format-disabled": "󰂲",
@@ -93,8 +69,8 @@
           "󰁻",
           "󰁼",
           "󰁾",
-          "󰂀",
-          "󰂂",
+          "󰁾",
+          "󰁾",
           "󰁹"
         ],
     },
