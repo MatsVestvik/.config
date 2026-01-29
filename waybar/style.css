@@ -1,40 +1,52 @@
 * {
     border: none;
-    font-size: 14px;
-    font-family: "JetBrainsMono Nerd Font,JetBrainsMono NF" ;
-    min-height: 25px;
+    font-size: 24px;
+    font-family: "JetBrainsMono Nerd Font,JetBrainsMono NF";
+    font-weight: normal;
 }
 
 window#waybar {
-  background: transparent;
-  margin: 5px;
+  background: rgba(0, 0, 0, 0.2);
 }
 
-.modules-right {
-  padding-left: 5px;
+.modules-left {
   border-radius: 15px 15px 15px 15px;
   margin-top: 2px;
-  background: #000000;
+  padding: 15px 5px;
+  min-height: 150px;
 }
 
 .modules-center {
   padding: 0 0;
   margin-top: 2px;
   border-radius: 15px 15px 15px 15px;
-  background: #000000;
 }
 
-.modules-left {
+.modules-right {
+  padding-left: 5px;
   border-radius: 15px 15px 15px 15px;
   margin-top: 2px;
-  background: #000000;
 }
 
-#clock {
-  padding: 0 5px;
+/* Optional: Add spacing or different colors */
+#custom-hour-tens {
+  color: #FFFFFF;
 }
 
-#clock{
-  color: #5fd1fa;
+#custom-hour-ones {
+  color: #FFFFFF;
+}
+
+#custom-minute-tens {
+  color: #FFFFFF;
+  margin-top: 10px; /* Add space between hours and minutes */
+}
+
+#custom-minute-ones {
+  color: #FFFFFF;
+}
+
+#hyprland-workspaces {
+  padding: 10px;
 }
 
