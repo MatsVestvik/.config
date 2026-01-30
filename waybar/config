@@ -6,7 +6,7 @@
   
   "modules-left": ["custom/hour-tens", "custom/hour-ones","custom/colon", "custom/minute-tens", "custom/minute-ones"],
   "modules-center": ["hyprland/workspaces"],
-  "modules-right": [],
+  "modules-right": ["battery"],
   
   "hyprland/workspaces": {
     "format": "{icon}",
@@ -15,7 +15,7 @@
       "default": "" 
     },
     "persistent-workspaces": {
-      "*": [2, 3, 4, 5, 6]
+      "*": [1, 2, 3, 4, 5]
     }
   },
   
@@ -47,6 +47,12 @@
     "exec": "date +'%M' | cut -c2",
     "interval": 1,
     "format": "{}"
+  },
+
+  // Battery module configuration
+  "battery": {
+      "format": "{capacity}%",
+      "interval": 10
   }
 }
 
