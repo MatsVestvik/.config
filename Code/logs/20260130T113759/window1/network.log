@@ -1,5 +1,0 @@
-2026-01-30 11:51:39.631 [error] #48: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/vmware/vscode-boot-dev-pack/latest - error GET Canceled
-2026-01-30 11:51:39.631 [error] #49: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/vscode-pull-request-github/latest - error GET Canceled
-2026-01-30 11:51:39.631 [error] #50: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/mtxr/sqltools/latest - error GET Canceled
-2026-01-30 11:51:39.631 [error] #51: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode-remote/remote-containers/latest - error GET Canceled
-2026-01-30 11:51:39.632 [error] #52: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/eamodio/gitlens/latest - error GET Canceled

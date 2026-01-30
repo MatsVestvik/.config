@@ -1,6 +1,0 @@
-Jan 30, 2026 11:51:02 AM org.apache.aries.spifly.BaseActivator log
-INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic
-Jan 30, 2026 11:51:22 AM com.microsoft.java.debug.plugin.internal.JavaDebuggerServerPlugin start
-INFO: Starting com.microsoft.java.debug.plugin
-Jan 30, 2026 11:51:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
-WARNING: Unmatched cancel notification for request id 2

@@ -1,9 +1,0 @@
-{
-    "github.copilot.nextEditSuggestions.enabled": true,
-    "workbench.sideBar.location": "right",
-    "animations.Install-Method": "Apc Customize UI++",
-    "apc.imports": [
-        "file://${userHome}/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
-    ],
-    "transparent-win.transparency": 0.8
-}
