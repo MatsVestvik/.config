@@ -30,22 +30,8 @@ window#waybar {
   margin-top: 2px;
 }
 
-/* Optional: Add spacing or different colors */
-#custom-hour-tens {
-  color: #FFFFFF;
-}
-
-#custom-hour-ones {
-  color: #FFFFFF;
-}
-
-#custom-minute-tens {
-  color: #FFFFFF;
-  margin-top: 10px; /* Add space between hours and minutes */
-}
-
-#custom-minute-ones {
-  color: #FFFFFF;
+#battery {
+  font-size: 18px;
 }
 
 #hyprland-workspaces {
