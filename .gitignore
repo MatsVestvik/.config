@@ -1,9 +1,0 @@
-
-# Ignore EVERYTHING 
-*
-
-# Then un-ignore 
-!nvim/
-!waybar/
-!waypaper/
-!.gitignore

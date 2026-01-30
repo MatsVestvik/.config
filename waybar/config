@@ -1,0 +1,52 @@
+{
+  "layer": "top",
+  "position": "right",
+  "height": "100%",
+  "width": 0,
+  
+  "modules-left": ["custom/hour-tens", "custom/hour-ones","custom/colon", "custom/minute-tens", "custom/minute-ones"],
+  "modules-center": ["hyprland/workspaces"],
+  "modules-right": [],
+  
+  "hyprland/workspaces": {
+    "format": "{icon}",
+    "format-icons": {
+      "active": "",
+      "default": "" 
+    },
+    "persistent-workspaces": {
+      "*": [2, 3, 4, 5, 6]
+    }
+  },
+  
+  "custom/hour-tens": {
+    "exec": "date +'%H' | cut -c1",
+    "interval": 1,
+    "format": "{}"
+  },
+  
+  "custom/hour-ones": {
+    "exec": "date +'%H' | cut -c2",
+    "interval": 1,
+    "format": "{}"
+  },
+
+  "custom/colon": {
+    "exec": "echo ':'",
+    "interval": 1,
+    "format": "{}"
+  },
+
+  "custom/minute-tens": {
+    "exec": "date +'%M' | cut -c1",
+    "interval": 1,
+    "format": "{}"
+  },
+  
+  "custom/minute-ones": {
+    "exec": "date +'%M' | cut -c2",
+    "interval": 1,
+    "format": "{}"
+  }
+}
+
