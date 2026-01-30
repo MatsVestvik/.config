@@ -71,3 +71,5 @@
 2026-01-30 12:31:39.272 [error] Error: ENOENT: no such file or directory, lstat '/home/mats/projects/cardgame/CardGame/src/main/java/com/cardgame/Main.java.git'
 2026-01-30 12:31:41.354 [error] Error: ENOENT: no such file or directory, lstat '/home/mats/projects/cardgame/CardGame/src/main/java/com/cardgame/Main.java.git'
 2026-01-30 12:37:18.212 [error] Error: ENOENT: no such file or directory, lstat '/home/mats/projects/cardgame/CardGame/src/main/java/com/cardgame/Main.java.git'
+2026-01-30 12:40:18.608 [error] Error: ENOENT: no such file or directory, lstat '/home/mats/projects/cardgame/CardGame/src/main/java/com/cardgame/Main.java.git'
+2026-01-30 12:45:25.716 [error] Error: ENOENT: no such file or directory, lstat '/home/mats/projects/cardgame/CardGame/src/main/java/com/cardgame/Main.java.git'

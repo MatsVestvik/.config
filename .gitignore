@@ -1,2 +1,9 @@
-/code/
-/code/*
+
+# Ignore EVERYTHING 
+*
+
+# Then un-ignore 
+!nvim/
+!waybar/
+!hyprpaper/
+!.gitignore
