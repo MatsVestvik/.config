@@ -1,0 +1,16 @@
+# Ignore everything
+/*
+
+# But don't ignore these directories
+!/.gitignore
+!/nvim/
+!/waybar/
+!/waypaper/
+!/hypr/
+
+# Don't ignore the contents of these directories
+!/.gitignore
+!/nvim/**
+!/waybar/**
+!/waypaper/**
+!/hypr/**
