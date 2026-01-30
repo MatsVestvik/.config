@@ -5,5 +5,5 @@
 # Then un-ignore 
 !nvim/
 !waybar/
-!hyprpaper/
+!waypaper/
 !.gitignore
