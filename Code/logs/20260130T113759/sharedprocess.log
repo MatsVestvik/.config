@@ -1,0 +1,321 @@
+2026-01-30 11:38:51.939 [info] Getting Manifest... github.copilot-chat
+2026-01-30 11:38:52.010 [info] Installing extension: github.copilot-chat {"enable":true,"isApplicationScoped":true,"isMachineScoped":false,"installEverywhere":true,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:38:52.569 [info] Getting Manifest... github.copilot
+2026-01-30 11:38:52.590 [info] Installing extension: github.copilot {"enable":true,"isApplicationScoped":true,"isMachineScoped":false,"installEverywhere":true,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-01-30 11:38:55.390 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 1750ms.
+2026-01-30 11:38:56.103 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 1452ms.
+2026-01-30 11:38:56.267 [info] Extracted extension to file:///home/mats/.vscode/extensions/github.copilot-chat-0.36.2: github.copilot-chat
+2026-01-30 11:38:56.298 [info] Renamed to /home/mats/.vscode/extensions/github.copilot-chat-0.36.2
+2026-01-30 11:38:57.048 [info] Extracted extension to file:///home/mats/.vscode/extensions/github.copilot-1.388.0: github.copilot
+2026-01-30 11:38:57.060 [info] Renamed to /home/mats/.vscode/extensions/github.copilot-1.388.0
+2026-01-30 11:38:57.109 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:38:57.109 [info] Extension installed successfully: github.copilot vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:41:34.925 [info] Getting Manifest... trentquacks.mocha-transparent
+2026-01-30 11:41:35.021 [info] Installing extension: trentquacks.mocha-transparent {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:41:36.612 [info] Extension signature verification result for trentquacks.mocha-transparent: Success. Internal Code: 0. Executed: true. Duration: 942ms.
+2026-01-30 11:41:36.628 [info] Extracted extension to file:///home/mats/.vscode/extensions/trentquacks.mocha-transparent-0.0.4: trentquacks.mocha-transparent
+2026-01-30 11:41:36.641 [info] Renamed to /home/mats/.vscode/extensions/trentquacks.mocha-transparent-0.0.4
+2026-01-30 11:41:36.686 [info] Extension installed successfully: trentquacks.mocha-transparent vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:41:50.054 [info] Uninstalling extension from the profile: trentquacks.mocha-transparent@0.0.4 vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:41:50.102 [info] Marked extension as removed trentquacks.mocha-transparent-0.0.4
+2026-01-30 11:41:50.321 [info] Successfully uninstalled extension from the profile trentquacks.mocha-transparent@0.0.4 vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:42:12.901 [info] Getting Manifest... alexowl.transparent-color-theme
+2026-01-30 11:42:12.969 [info] Installing extension: alexowl.transparent-color-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:42:13.295 [info] Getting Manifest... brandonkirbyson.vscode-animations
+2026-01-30 11:42:13.415 [info] Getting Manifest... drcika.apc-extension
+2026-01-30 11:42:13.510 [info] Installing extension: brandonkirbyson.vscode-animations {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-01-30 11:42:13.511 [info] Installing extension: drcika.apc-extension {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-01-30 11:42:15.093 [info] Extension signature verification result for alexowl.transparent-color-theme: Success. Internal Code: 0. Executed: true. Duration: 1053ms.
+2026-01-30 11:42:15.174 [info] Extracted extension to file:///home/mats/.vscode/extensions/alexowl.transparent-color-theme-1.1.0: alexowl.transparent-color-theme
+2026-01-30 11:42:15.179 [info] Extension signature verification result for drcika.apc-extension: Success. Internal Code: 0. Executed: true. Duration: 1025ms.
+2026-01-30 11:42:15.187 [info] Renamed to /home/mats/.vscode/extensions/alexowl.transparent-color-theme-1.1.0
+2026-01-30 11:42:15.284 [info] Extracted extension to file:///home/mats/.vscode/extensions/drcika.apc-extension-0.4.1: drcika.apc-extension
+2026-01-30 11:42:15.302 [info] Renamed to /home/mats/.vscode/extensions/drcika.apc-extension-0.4.1
+2026-01-30 11:42:16.618 [info] Extension signature verification result for brandonkirbyson.vscode-animations: Success. Internal Code: 0. Executed: true. Duration: 1014ms.
+2026-01-30 11:42:17.197 [info] Extracted extension to file:///home/mats/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7: brandonkirbyson.vscode-animations
+2026-01-30 11:42:17.254 [info] Renamed to /home/mats/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7
+2026-01-30 11:42:17.290 [info] Extension installed successfully: alexowl.transparent-color-theme vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:42:17.291 [info] Extension installed successfully: drcika.apc-extension vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:42:17.291 [info] Extension installed successfully: brandonkirbyson.vscode-animations vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:43:28.577 [info] Uninstalling extension from the profile: alexowl.transparent-color-theme@1.1.0 vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:43:28.577 [info] Uninstalling extension from the profile: brandonkirbyson.vscode-animations@2.0.7 vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:43:28.578 [info] Uninstalling extension from the profile: drcika.apc-extension@0.4.1 vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:43:28.603 [info] Extensions is already requested to uninstall brandonkirbyson.vscode-animations
+2026-01-30 11:43:28.603 [info] Extensions is already requested to uninstall drcika.apc-extension
+2026-01-30 11:43:28.681 [info] Marked extension as removed alexowl.transparent-color-theme-1.1.0
+2026-01-30 11:43:28.695 [info] Marked extension as removed brandonkirbyson.vscode-animations-2.0.7
+2026-01-30 11:43:28.719 [info] Marked extension as removed drcika.apc-extension-0.4.1
+2026-01-30 11:43:28.888 [info] Successfully uninstalled extension from the profile alexowl.transparent-color-theme@1.1.0 vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:43:28.888 [info] Successfully uninstalled extension from the profile brandonkirbyson.vscode-animations@2.0.7 vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:43:28.889 [info] Successfully uninstalled extension from the profile drcika.apc-extension@0.4.1 vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:43:40.029 [info] Getting Manifest... id-wj.transparent-win
+2026-01-30 11:43:40.115 [info] Installing extension: id-wj.transparent-win {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:43:43.846 [info] Extension signature verification result for id-wj.transparent-win: Success. Internal Code: 0. Executed: true. Duration: 980ms.
+2026-01-30 11:43:44.583 [info] Extracted extension to file:///home/mats/.vscode/extensions/id-wj.transparent-win-0.0.1: id-wj.transparent-win
+2026-01-30 11:43:44.635 [info] Renamed to /home/mats/.vscode/extensions/id-wj.transparent-win-0.0.1
+2026-01-30 11:43:44.684 [info] Extension installed successfully: id-wj.transparent-win vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:44:54.627 [info] Getting Manifest... tomoki1207.pdf
+2026-01-30 11:44:54.627 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2026-01-30 11:44:54.628 [info] Getting Manifest... ms-python.vscode-pylance
+2026-01-30 11:44:54.628 [info] Getting Manifest... ms-python.vscode-python-envs
+2026-01-30 11:44:54.628 [info] Getting Manifest... ms-python.python
+2026-01-30 11:44:54.628 [info] Getting Manifest... redhat.java
+2026-01-30 11:44:54.629 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2026-01-30 11:44:54.629 [info] Getting Manifest... lego-education.ev3-micropython
+2026-01-30 11:44:54.629 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2026-01-30 11:44:54.629 [info] Getting Manifest... rickaym.manim-sideview
+2026-01-30 11:44:54.630 [info] Getting Manifest... shahilkumar.docxreader
+2026-01-30 11:44:54.630 [info] Getting Manifest... mechatroner.rainbow-csv
+2026-01-30 11:44:54.630 [info] Getting Manifest... tonybaloney.vscode-pets
+2026-01-30 11:44:54.630 [info] Getting Manifest... ahmadawais.shades-of-purple
+2026-01-30 11:44:54.631 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2026-01-30 11:44:54.631 [info] Getting Manifest... ev3dev.ev3dev-browser
+2026-01-30 11:44:54.631 [info] Getting Manifest... 076923.python-image-preview
+2026-01-30 11:44:54.631 [info] Getting Manifest... vscjava.vscode-java-upgrade
+2026-01-30 11:44:54.632 [info] Getting Manifest... supsugam.react-native-text-watcher
+2026-01-30 11:44:54.632 [info] Getting Manifest... vscjava.vscode-gradle
+2026-01-30 11:44:54.632 [info] Getting Manifest... vscjava.vscode-java-test
+2026-01-30 11:44:54.632 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2026-01-30 11:44:54.632 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2026-01-30 11:44:54.633 [info] Getting Manifest... suryadantuluri.brainrot-stimulation
+2026-01-30 11:44:54.633 [info] Getting Manifest... vscodevim.vim
+2026-01-30 11:44:54.633 [info] Getting Manifest... shengchen.vscode-checkstyle
+2026-01-30 11:44:54.633 [info] Getting Manifest... visualstudiotoolsforunity.vstuc
+2026-01-30 11:44:54.634 [info] Getting Manifest... vscjava.vscode-maven
+2026-01-30 11:44:54.634 [info] Getting Manifest... vscjava.vscode-java-dependency
+2026-01-30 11:44:54.634 [info] Getting Manifest... vscjava.vscode-java-pack
+2026-01-30 11:44:54.634 [info] Getting Manifest... vscjava.vscode-java-debug
+2026-01-30 11:44:54.635 [info] Getting Manifest... ms-dotnettools.csdevkit
+2026-01-30 11:44:54.635 [info] Getting Manifest... vscjava.migrate-java-to-azure
+2026-01-30 11:44:54.635 [info] Getting Manifest... ms-python.debugpy
+2026-01-30 11:44:54.636 [info] Getting Manifest... ms-toolsai.jupyter
+2026-01-30 11:44:54.636 [info] Getting Manifest... ms-dotnettools.csharp
+2026-01-30 11:44:54.636 [info] Getting Manifest... ritwickdey.liveserver
+2026-01-30 11:44:58.884 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.884 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.885 [info] Installing extension: ms-toolsai.jupyter-keymap {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.885 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.885 [info] Installing extension: ms-toolsai.jupyter-renderers {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.886 [info] Installing extension: shahilkumar.docxreader {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.886 [info] Installing extension: visualstudiotoolsforunity.vstuc {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.887 [info] Installing extension: tomoki1207.pdf {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.887 [info] Installing extension: catppuccin.catppuccin-vsc {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.887 [info] Installing extension: ms-python.vscode-python-envs {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.888 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.888 [info] Installing extension: ms-dotnettools.vscode-dotnet-runtime {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.888 [info] Installing extension: ms-dotnettools.csdevkit {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.888 [info] Installing extension: ms-python.python {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.889 [info] Installing extension: vscjava.vscode-java-pack {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.889 [info] Installing extension: vscjava.vscode-java-dependency {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.889 [info] Installing extension: vscjava.vscode-maven {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.890 [info] Installing extension: ahmadawais.shades-of-purple {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.890 [info] Installing extension: redhat.java {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.890 [info] Installing extension: vscjava.vscode-java-debug {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.890 [info] Installing extension: mechatroner.rainbow-csv {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.891 [info] Installing extension: supsugam.react-native-text-watcher {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.891 [info] Installing extension: vscjava.vscode-java-test {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.891 [info] Installing extension: vscjava.vscode-gradle {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.891 [info] Installing extension: vscodevim.vim {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.891 [info] Installing extension: 076923.python-image-preview {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.892 [info] Installing extension: suryadantuluri.brainrot-stimulation {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.892 [info] Installing extension: lego-education.ev3-micropython {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.892 [info] Installing extension: vscjava.migrate-java-to-azure {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.892 [info] Installing extension: ev3dev.ev3dev-browser {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.893 [info] Installing extension: shengchen.vscode-checkstyle {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.893 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.893 [info] Installing extension: vscjava.vscode-java-upgrade {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.893 [info] Installing extension: ms-toolsai.jupyter {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.894 [info] Installing extension: ms-dotnettools.csharp {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.894 [info] Installing extension: tonybaloney.vscode-pets {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.894 [info] Installing extension: rickaym.manim-sideview {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"}}
+2026-01-30 11:44:58.894 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2026-01-30 11:44:58.895 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-slideshow
+2026-01-30 11:44:58.895 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-keymap
+2026-01-30 11:44:58.895 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-cell-tags
+2026-01-30 11:44:58.895 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-renderers
+2026-01-30 11:44:58.896 [info] Installing the extension without checking dependencies and pack shahilkumar.docxreader
+2026-01-30 11:44:58.896 [info] Installing the extension without checking dependencies and pack visualstudiotoolsforunity.vstuc
+2026-01-30 11:44:58.896 [info] Installing the extension without checking dependencies and pack tomoki1207.pdf
+2026-01-30 11:44:58.897 [info] Installing the extension without checking dependencies and pack catppuccin.catppuccin-vsc
+2026-01-30 11:44:58.897 [info] Installing the extension without checking dependencies and pack ms-python.vscode-python-envs
+2026-01-30 11:44:58.897 [info] Installing the extension without checking dependencies and pack ritwickdey.liveserver
+2026-01-30 11:44:58.897 [info] Installing the extension without checking dependencies and pack ms-dotnettools.vscode-dotnet-runtime
+2026-01-30 11:44:58.898 [info] Installing the extension without checking dependencies and pack ms-dotnettools.csdevkit
+2026-01-30 11:44:58.898 [info] Installing the extension without checking dependencies and pack ms-python.python
+2026-01-30 11:44:58.899 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-pack
+2026-01-30 11:44:58.899 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-dependency
+2026-01-30 11:44:58.899 [info] Installing the extension without checking dependencies and pack vscjava.vscode-maven
+2026-01-30 11:44:58.899 [info] Installing the extension without checking dependencies and pack ahmadawais.shades-of-purple
+2026-01-30 11:44:58.900 [info] Installing the extension without checking dependencies and pack redhat.java
+2026-01-30 11:44:58.900 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-debug
+2026-01-30 11:44:58.900 [info] Installing the extension without checking dependencies and pack mechatroner.rainbow-csv
+2026-01-30 11:44:58.900 [info] Installing the extension without checking dependencies and pack supsugam.react-native-text-watcher
+2026-01-30 11:44:58.900 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-test
+2026-01-30 11:44:58.901 [info] Installing the extension without checking dependencies and pack vscjava.vscode-gradle
+2026-01-30 11:44:58.901 [info] Installing the extension without checking dependencies and pack vscodevim.vim
+2026-01-30 11:44:58.901 [info] Installing the extension without checking dependencies and pack 076923.python-image-preview
+2026-01-30 11:44:58.901 [info] Installing the extension without checking dependencies and pack suryadantuluri.brainrot-stimulation
+2026-01-30 11:44:58.901 [info] Installing the extension without checking dependencies and pack lego-education.ev3-micropython
+2026-01-30 11:44:58.902 [info] Installing the extension without checking dependencies and pack vscjava.migrate-java-to-azure
+2026-01-30 11:44:58.902 [info] Installing the extension without checking dependencies and pack ev3dev.ev3dev-browser
+2026-01-30 11:44:58.902 [info] Installing the extension without checking dependencies and pack shengchen.vscode-checkstyle
+2026-01-30 11:44:58.902 [info] Installing the extension without checking dependencies and pack ms-python.debugpy
+2026-01-30 11:44:58.902 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-upgrade
+2026-01-30 11:44:58.903 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter
+2026-01-30 11:44:58.903 [info] Installing the extension without checking dependencies and pack ms-dotnettools.csharp
+2026-01-30 11:44:58.903 [info] Installing the extension without checking dependencies and pack tonybaloney.vscode-pets
+2026-01-30 11:44:58.903 [info] Installing the extension without checking dependencies and pack rickaym.manim-sideview
+2026-01-30 11:45:00.458 [info] Extension signature verification result for ms-toolsai.jupyter-keymap: Success. Internal Code: 0. Executed: true. Duration: 1178ms.
+2026-01-30 11:45:00.460 [info] Extension signature verification result for ms-toolsai.vscode-jupyter-slideshow: Success. Internal Code: 0. Executed: true. Duration: 1071ms.
+2026-01-30 11:45:00.742 [info] Extracted extension to file:///home/mats/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.2: ms-toolsai.jupyter-keymap
+2026-01-30 11:45:00.780 [info] Renamed to /home/mats/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.2
+2026-01-30 11:45:00.833 [info] Extracted extension to file:///home/mats/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6: ms-toolsai.vscode-jupyter-slideshow
+2026-01-30 11:45:00.847 [info] Renamed to /home/mats/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6
+2026-01-30 11:45:00.873 [info] Extension signature verification result for ms-toolsai.vscode-jupyter-cell-tags: Success. Internal Code: 0. Executed: true. Duration: 1525ms.
+2026-01-30 11:45:00.895 [info] Extension signature verification result for catppuccin.catppuccin-vsc: Success. Internal Code: 0. Executed: true. Duration: 1310ms.
+2026-01-30 11:45:01.070 [info] Extracted extension to file:///home/mats/.vscode/extensions/catppuccin.catppuccin-vsc-3.18.1: catppuccin.catppuccin-vsc
+2026-01-30 11:45:01.075 [info] Extension signature verification result for ahmadawais.shades-of-purple: Success. Internal Code: 0. Executed: true. Duration: 1234ms.
+2026-01-30 11:45:01.095 [info] Renamed to /home/mats/.vscode/extensions/catppuccin.catppuccin-vsc-3.18.1
+2026-01-30 11:45:01.289 [info] Extracted extension to file:///home/mats/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9: ms-toolsai.vscode-jupyter-cell-tags
+2026-01-30 11:45:01.293 [info] Extracted extension to file:///home/mats/.vscode/extensions/ahmadawais.shades-of-purple-7.3.6: ahmadawais.shades-of-purple
+2026-01-30 11:45:01.310 [info] Renamed to /home/mats/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9
+2026-01-30 11:45:01.315 [info] Renamed to /home/mats/.vscode/extensions/ahmadawais.shades-of-purple-7.3.6
+2026-01-30 11:45:01.405 [info] Extension signature verification result for ev3dev.ev3dev-browser: Success. Internal Code: 0. Executed: true. Duration: 1371ms.
+2026-01-30 11:45:01.561 [info] Extension signature verification result for suryadantuluri.brainrot-stimulation: Success. Internal Code: 0. Executed: true. Duration: 1416ms.
+2026-01-30 11:45:01.601 [info] Extracted extension to file:///home/mats/.vscode/extensions/ev3dev.ev3dev-browser-1.2.1: ev3dev.ev3dev-browser
+2026-01-30 11:45:01.610 [info] Extracted extension to file:///home/mats/.vscode/extensions/suryadantuluri.brainrot-stimulation-0.0.3: suryadantuluri.brainrot-stimulation
+2026-01-30 11:45:01.629 [info] Renamed to /home/mats/.vscode/extensions/suryadantuluri.brainrot-stimulation-0.0.3
+2026-01-30 11:45:01.633 [info] Renamed to /home/mats/.vscode/extensions/ev3dev.ev3dev-browser-1.2.1
+2026-01-30 11:45:01.827 [info] Extension signature verification result for vscodevim.vim: Success. Internal Code: 0. Executed: true. Duration: 1360ms.
+2026-01-30 11:45:01.845 [info] Extension signature verification result for supsugam.react-native-text-watcher: Success. Internal Code: 0. Executed: true. Duration: 1154ms.
+2026-01-30 11:45:01.951 [info] Extracted extension to file:///home/mats/.vscode/extensions/vscodevim.vim-1.32.4: vscodevim.vim
+2026-01-30 11:45:01.993 [info] Renamed to /home/mats/.vscode/extensions/vscodevim.vim-1.32.4
+2026-01-30 11:45:02.000 [info] Extension signature verification result for mechatroner.rainbow-csv: Success. Internal Code: 0. Executed: true. Duration: 1284ms.
+2026-01-30 11:45:02.072 [info] Extension signature verification result for ms-dotnettools.vscode-dotnet-runtime: Success. Internal Code: 0. Executed: true. Duration: 1028ms.
+2026-01-30 11:45:02.200 [info] Extracted extension to file:///home/mats/.vscode/extensions/mechatroner.rainbow-csv-3.24.1: mechatroner.rainbow-csv
+2026-01-30 11:45:02.219 [info] Extracted extension to file:///home/mats/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0: ms-dotnettools.vscode-dotnet-runtime
+2026-01-30 11:45:02.238 [info] Renamed to /home/mats/.vscode/extensions/mechatroner.rainbow-csv-3.24.1
+2026-01-30 11:45:02.244 [info] Renamed to /home/mats/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.0.0
+2026-01-30 11:45:02.250 [info] Extracted extension to file:///home/mats/.vscode/extensions/supsugam.react-native-text-watcher-1.0.3: supsugam.react-native-text-watcher
+2026-01-30 11:45:02.285 [info] Renamed to /home/mats/.vscode/extensions/supsugam.react-native-text-watcher-1.0.3
+2026-01-30 11:45:02.993 [info] Extension signature verification result for rickaym.manim-sideview: Success. Internal Code: 0. Executed: true. Duration: 1054ms.
+2026-01-30 11:45:03.289 [info] Extracted extension to file:///home/mats/.vscode/extensions/rickaym.manim-sideview-0.3.1: rickaym.manim-sideview
+2026-01-30 11:45:03.312 [info] Renamed to /home/mats/.vscode/extensions/rickaym.manim-sideview-0.3.1
+2026-01-30 11:45:03.955 [info] Extension signature verification result for tomoki1207.pdf: Success. Internal Code: 0. Executed: true. Duration: 982ms.
+2026-01-30 11:45:04.043 [info] Extension signature verification result for vscjava.vscode-java-dependency: Success. Internal Code: 0. Executed: true. Duration: 1121ms.
+2026-01-30 11:45:04.124 [info] Extension signature verification result for vscjava.vscode-java-pack: Success. Internal Code: 0. Executed: true. Duration: 1108ms.
+2026-01-30 11:45:04.147 [info] Extracted extension to file:///home/mats/.vscode/extensions/vscjava.vscode-java-dependency-0.27.0: vscjava.vscode-java-dependency
+2026-01-30 11:45:04.162 [info] Renamed to /home/mats/.vscode/extensions/vscjava.vscode-java-dependency-0.27.0
+2026-01-30 11:45:04.230 [info] Extension signature verification result for vscjava.vscode-java-debug: Success. Internal Code: 0. Executed: true. Duration: 1119ms.
+2026-01-30 11:45:04.526 [info] Extracted extension to file:///home/mats/.vscode/extensions/vscjava.vscode-java-debug-0.58.5: vscjava.vscode-java-debug
+2026-01-30 11:45:04.559 [info] Renamed to /home/mats/.vscode/extensions/vscjava.vscode-java-debug-0.58.5
+2026-01-30 11:45:04.796 [info] Extracted extension to file:///home/mats/.vscode/extensions/vscjava.vscode-java-pack-0.30.5: vscjava.vscode-java-pack
+2026-01-30 11:45:04.870 [info] Renamed to /home/mats/.vscode/extensions/vscjava.vscode-java-pack-0.30.5
+2026-01-30 11:45:05.047 [info] Extension signature verification result for shahilkumar.docxreader: Success. Internal Code: 0. Executed: true. Duration: 1122ms.
+2026-01-30 11:45:05.364 [info] Extension signature verification result for ms-toolsai.jupyter: Success. Internal Code: 0. Executed: true. Duration: 1156ms.
+2026-01-30 11:45:05.474 [info] Extension signature verification result for ms-toolsai.jupyter-renderers: Success. Internal Code: 0. Executed: true. Duration: 1660ms.
+2026-01-30 11:45:05.652 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Internal Code: 0. Executed: true. Duration: 1084ms.
+2026-01-30 11:45:05.735 [info] Extension signature verification result for vscjava.vscode-java-test: Success. Internal Code: 0. Executed: true. Duration: 1154ms.
+2026-01-30 11:45:06.113 [info] Extracted extension to file:///home/mats/.vscode/extensions/tomoki1207.pdf-1.2.2: tomoki1207.pdf
+2026-01-30 11:45:06.206 [info] Extracted extension to file:///home/mats/.vscode/extensions/vscjava.vscode-java-test-0.44.0: vscjava.vscode-java-test
+2026-01-30 11:45:06.228 [info] Renamed to /home/mats/.vscode/extensions/tomoki1207.pdf-1.2.2
+2026-01-30 11:45:06.235 [info] Renamed to /home/mats/.vscode/extensions/vscjava.vscode-java-test-0.44.0
+2026-01-30 11:45:06.463 [info] Extension signature verification result for ritwickdey.liveserver: Success. Internal Code: 0. Executed: true. Duration: 1207ms.
+2026-01-30 11:45:06.766 [info] Extension signature verification result for 076923.python-image-preview: Success. Internal Code: 0. Executed: true. Duration: 1078ms.
+2026-01-30 11:45:06.820 [info] Extracted extension to file:///home/mats/.vscode/extensions/ms-toolsai.jupyter-renderers-1.3.0: ms-toolsai.jupyter-renderers
+2026-01-30 11:45:06.867 [info] Renamed to /home/mats/.vscode/extensions/ms-toolsai.jupyter-renderers-1.3.0
+2026-01-30 11:45:06.980 [info] Extension signature verification result for vscjava.vscode-java-upgrade: Success. Internal Code: 0. Executed: true. Duration: 1085ms.
+2026-01-30 11:45:07.018 [info] Extracted extension to file:///home/mats/.vscode/extensions/ms-python.vscode-python-envs-1.16.0-linux-x64: ms-python.vscode-python-envs
+2026-01-30 11:45:07.054 [info] Renamed to /home/mats/.vscode/extensions/ms-python.vscode-python-envs-1.16.0-linux-x64
+2026-01-30 11:45:07.058 [info] Extracted extension to file:///home/mats/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64: ms-toolsai.jupyter
+2026-01-30 11:45:07.120 [info] Renamed to /home/mats/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64
+2026-01-30 11:45:07.288 [info] Extracted extension to file:///home/mats/.vscode/extensions/076923.python-image-preview-0.1.2: 076923.python-image-preview
+2026-01-30 11:45:07.349 [info] Renamed to /home/mats/.vscode/extensions/076923.python-image-preview-0.1.2
+2026-01-30 11:45:07.496 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 1109ms.
+2026-01-30 11:45:07.570 [info] Extracted extension to file:///home/mats/.vscode/extensions/vscjava.vscode-java-upgrade-1.12.0: vscjava.vscode-java-upgrade
+2026-01-30 11:45:07.603 [info] Renamed to /home/mats/.vscode/extensions/vscjava.vscode-java-upgrade-1.12.0
+2026-01-30 11:45:07.981 [info] Extension signature verification result for visualstudiotoolsforunity.vstuc: Success. Internal Code: 0. Executed: true. Duration: 1099ms.
+2026-01-30 11:45:08.702 [info] Extension signature verification result for shengchen.vscode-checkstyle: Success. Internal Code: 0. Executed: true. Duration: 1097ms.
+2026-01-30 11:45:08.981 [info] Extension signature verification result for vscjava.vscode-maven: Success. Internal Code: 0. Executed: true. Duration: 1148ms.
+2026-01-30 11:45:09.101 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 1154ms.
+2026-01-30 11:45:09.288 [info] Extracted extension to file:///home/mats/.vscode/extensions/visualstudiotoolsforunity.vstuc-1.2.1: visualstudiotoolsforunity.vstuc
+2026-01-30 11:45:09.334 [info] Renamed to /home/mats/.vscode/extensions/visualstudiotoolsforunity.vstuc-1.2.1
+2026-01-30 11:45:09.465 [info] Extracted extension to file:///home/mats/.vscode/extensions/shengchen.vscode-checkstyle-1.4.2: shengchen.vscode-checkstyle
+2026-01-30 11:45:09.479 [info] Renamed to /home/mats/.vscode/extensions/shengchen.vscode-checkstyle-1.4.2
+2026-01-30 11:45:09.921 [info] Extracted extension to file:///home/mats/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64: ms-python.debugpy
+2026-01-30 11:45:09.967 [info] Extension signature verification result for tonybaloney.vscode-pets: Success. Internal Code: 0. Executed: true. Duration: 993ms.
+2026-01-30 11:45:09.970 [info] Renamed to /home/mats/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64
+2026-01-30 11:45:09.990 [info] Extracted extension to file:///home/mats/.vscode/extensions/vscjava.vscode-maven-0.45.1: vscjava.vscode-maven
+2026-01-30 11:45:10.041 [info] Renamed to /home/mats/.vscode/extensions/vscjava.vscode-maven-0.45.1
+2026-01-30 11:45:10.085 [info] Extracted extension to file:///home/mats/.vscode/extensions/shahilkumar.docxreader-1.3.1: shahilkumar.docxreader
+2026-01-30 11:45:10.223 [info] Renamed to /home/mats/.vscode/extensions/shahilkumar.docxreader-1.3.1
+2026-01-30 11:45:11.987 [info] Extracted extension to file:///home/mats/.vscode/extensions/tonybaloney.vscode-pets-1.34.0: tonybaloney.vscode-pets
+2026-01-30 11:45:12.048 [info] Renamed to /home/mats/.vscode/extensions/tonybaloney.vscode-pets-1.34.0
+2026-01-30 11:45:12.276 [info] Extension signature verification result for lego-education.ev3-micropython: Success. Internal Code: 0. Executed: true. Duration: 1014ms.
+2026-01-30 11:45:13.371 [info] Extracted extension to file:///home/mats/.vscode/extensions/lego-education.ev3-micropython-2.0.0: lego-education.ev3-micropython
+2026-01-30 11:45:13.452 [info] Renamed to /home/mats/.vscode/extensions/lego-education.ev3-micropython-2.0.0
+2026-01-30 11:45:13.588 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 1165ms.
+2026-01-30 11:45:14.338 [info] Extracted extension to file:///home/mats/.vscode/extensions/ms-python.python-2026.0.0-linux-x64: ms-python.python
+2026-01-30 11:45:14.493 [info] Renamed to /home/mats/.vscode/extensions/ms-python.python-2026.0.0-linux-x64
+2026-01-30 11:45:14.704 [info] Extension signature verification result for vscjava.migrate-java-to-azure: Success. Internal Code: 0. Executed: true. Duration: 1135ms.
+2026-01-30 11:45:15.624 [info] Extension signature verification result for vscjava.vscode-gradle: Success. Internal Code: 0. Executed: true. Duration: 1037ms.
+2026-01-30 11:45:16.820 [info] Extracted extension to file:///home/mats/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2026-01-30 11:45:17.045 [info] Renamed to /home/mats/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2026-01-30 11:45:17.123 [info] Extension signature verification result for ms-dotnettools.csdevkit: Success. Internal Code: 0. Executed: true. Duration: 1117ms.
+2026-01-30 11:45:17.180 [info] Extracted extension to file:///home/mats/.vscode/extensions/vscjava.vscode-gradle-3.17.2: vscjava.vscode-gradle
+2026-01-30 11:45:17.200 [info] Renamed to /home/mats/.vscode/extensions/vscjava.vscode-gradle-3.17.2
+2026-01-30 11:45:19.779 [info] Extracted extension to file:///home/mats/.vscode/extensions/vscjava.migrate-java-to-azure-1.11.0-linux-x64: vscjava.migrate-java-to-azure
+2026-01-30 11:45:19.894 [info] Renamed to /home/mats/.vscode/extensions/vscjava.migrate-java-to-azure-1.11.0-linux-x64
+2026-01-30 11:45:21.263 [info] Extension signature verification result for redhat.java: Success. Internal Code: 0. Executed: true. Duration: 1207ms.
+2026-01-30 11:45:21.830 [info] Extracted extension to file:///home/mats/.vscode/extensions/ms-dotnettools.csdevkit-1.90.2-linux-x64: ms-dotnettools.csdevkit
+2026-01-30 11:45:21.924 [info] Renamed to /home/mats/.vscode/extensions/ms-dotnettools.csdevkit-1.90.2-linux-x64
+2026-01-30 11:45:23.854 [info] Extension signature verification result for ms-dotnettools.csharp: Success. Internal Code: 0. Executed: true. Duration: 1286ms.
+2026-01-30 11:45:24.853 [info] Extracted extension to file:///home/mats/.vscode/extensions/redhat.java-1.52.0-linux-x64: redhat.java
+2026-01-30 11:45:24.901 [info] Renamed to /home/mats/.vscode/extensions/redhat.java-1.52.0-linux-x64
+2026-01-30 11:45:26.168 [info] Extracted extension to file:///home/mats/.vscode/extensions/ms-python.vscode-pylance-2025.10.4: ms-python.vscode-pylance
+2026-01-30 11:45:26.470 [info] Renamed to /home/mats/.vscode/extensions/ms-python.vscode-pylance-2025.10.4
+2026-01-30 11:45:29.488 [info] Extracted extension to file:///home/mats/.vscode/extensions/ms-dotnettools.csharp-2.110.4-linux-x64: ms-dotnettools.csharp
+2026-01-30 11:45:29.573 [info] Renamed to /home/mats/.vscode/extensions/ms-dotnettools.csharp-2.110.4-linux-x64
+2026-01-30 11:45:29.756 [info] Extension installed successfully: ms-toolsai.jupyter-keymap vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.756 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.756 [info] Extension installed successfully: catppuccin.catppuccin-vsc vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.756 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.757 [info] Extension installed successfully: ahmadawais.shades-of-purple vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.757 [info] Extension installed successfully: suryadantuluri.brainrot-stimulation vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.757 [info] Extension installed successfully: ev3dev.ev3dev-browser vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.757 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.757 [info] Extension installed successfully: mechatroner.rainbow-csv vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.757 [info] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.758 [info] Extension installed successfully: supsugam.react-native-text-watcher vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.758 [info] Extension installed successfully: rickaym.manim-sideview vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.758 [info] Extension installed successfully: vscjava.vscode-java-dependency vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.758 [info] Extension installed successfully: vscjava.vscode-java-debug vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.758 [info] Extension installed successfully: vscjava.vscode-java-pack vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.758 [info] Extension installed successfully: tomoki1207.pdf vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.759 [info] Extension installed successfully: vscjava.vscode-java-test vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.759 [info] Extension installed successfully: ms-toolsai.jupyter-renderers vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.759 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.759 [info] Extension installed successfully: ms-toolsai.jupyter vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.759 [info] Extension installed successfully: 076923.python-image-preview vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.759 [info] Extension installed successfully: vscjava.vscode-java-upgrade vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.759 [info] Extension installed successfully: visualstudiotoolsforunity.vstuc vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.760 [info] Extension installed successfully: shengchen.vscode-checkstyle vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.760 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.760 [info] Extension installed successfully: vscjava.vscode-maven vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.760 [info] Extension installed successfully: shahilkumar.docxreader vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.760 [info] Extension installed successfully: tonybaloney.vscode-pets vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.760 [info] Extension installed successfully: lego-education.ev3-micropython vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.760 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.761 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.761 [info] Extension installed successfully: vscjava.vscode-gradle vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.761 [info] Extension installed successfully: vscjava.migrate-java-to-azure vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.761 [info] Extension installed successfully: ms-dotnettools.csdevkit vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.761 [info] Extension installed successfully: redhat.java vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.761 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:45:29.762 [info] Extension installed successfully: ms-dotnettools.csharp vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:49:45.564 [info] Uninstalling extension from the profile: id-wj.transparent-win@0.0.1 vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:49:45.734 [info] Marked extension as removed id-wj.transparent-win-0.0.1
+2026-01-30 11:49:46.044 [info] Successfully uninstalled extension from the profile id-wj.transparent-win@0.0.1 vscode-userdata:/home/mats/.vscode/extensions/extensions.json
+2026-01-30 11:51:38.307 [info] Getting Manifest... vscjava.migrate-java-to-azure
+2026-01-30 11:51:38.372 [info] Installing extension: vscjava.migrate-java-to-azure {"context":{"extensionInstallSource":"command"},"pinned":false,"productVersion":{"version":"1.108.2","date":"2026-01-21T13:52:09.270Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mats/.vscode/extensions/extensions.json","path":"/home/mats/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-30 11:51:38.646 [info] Extension installed successfully: vscjava.migrate-java-to-azure vscode-userdata:/home/mats/.vscode/extensions/extensions.json

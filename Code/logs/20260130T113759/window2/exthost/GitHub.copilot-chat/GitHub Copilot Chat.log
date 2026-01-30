@@ -1,0 +1,11 @@
+2026-01-30 11:43:16.463 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-01-30 11:43:16.967 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-01-30 11:43:16.967 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-01-30 11:43:16.968 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-01-30 11:43:17.144 [error] Copilot extension not found
+2026-01-30 11:43:17.233 [info] Creating node-pty shim: source=/usr/share/code/resources/app/node_modules/node-pty/build/Release, dest=/home/mats/.vscode/extensions/github.copilot-chat-0.36.2/node_modules/@github/copilot/prebuilds/linux-x64
+2026-01-30 11:43:17.233 [info] Creating ripgrep shim: source=/usr/share/code/resources/app/node_modules/@vscode/ripgrep/bin, dest=/home/mats/.vscode/extensions/github.copilot-chat-0.36.2/node_modules/@github/copilot/sdk/ripgrep/bin/linux-x64
+2026-01-30 11:43:17.284 [info] Found 1 entries to copy: pty.node
+2026-01-30 11:43:17.284 [info] Found 1 entries to copy: rg
+2026-01-30 11:43:17.607 [info] Logged in as MatsVestvik
+2026-01-30 11:43:17.611 [info] Using the Electron fetcher.

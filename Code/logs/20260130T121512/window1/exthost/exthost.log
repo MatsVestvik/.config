@@ -1,0 +1,72 @@
+2026-01-30 12:15:15.093 [info] Extension host with pid 176893 started
+2026-01-30 12:15:15.094 [info] Skipping acquiring lock for /home/mats/.config/Code/User/workspaceStorage/0461823a32b61c8dacdebda54aaf8d65.
+2026-01-30 12:15:16.028 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-01-30 12:15:16.078 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2026-01-30 12:15:16.086 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-01-30 12:15:16.113 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatParticipant:github.copilot.editsAgent'
+2026-01-30 12:15:17.491 [info] ExtensionService#_doActivateExtension redhat.java, startup: false, activationEvent: 'onLanguage:java'
+2026-01-30 12:15:17.715 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug, startup: false, activationEvent: 'onLanguage:java'
+2026-01-30 12:15:17.780 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency, startup: false, activationEvent: 'onLanguage:java'
+2026-01-30 12:15:17.895 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack, startup: false, activationEvent: 'onLanguage:java'
+2026-01-30 12:15:18.150 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-01-30 12:15:18.403 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-01-30 12:15:18.551 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-01-30 12:15:18.745 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-01-30 12:15:18.829 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-01-30 12:15:18.832 [info] ExtensionService#_doActivateExtension vscjava.vscode-maven, startup: true, activationEvent: 'workspaceContains:**/pom.xml'
+2026-01-30 12:15:19.291 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-01-30 12:15:19.304 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-01-30 12:15:19.405 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-01-30 12:15:19.902 [error] Error: chatParticipant must be declared in package.json: claude-code
+    at yZt.$registerAgent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:520:10001)
+2026-01-30 12:15:20.225 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2026-01-30 12:15:20.330 [info] ExtensionService#_doActivateExtension shengchen.vscode-checkstyle, startup: false, activationEvent: 'onLanguage:java'
+2026-01-30 12:15:20.423 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test, startup: false, activationEvent: 'onLanguage:java'
+2026-01-30 12:15:20.534 [error] TypeError: Cannot read properties of undefined (reading 'sendRequest')
+	at /home/mats/.vscode/extensions/redhat.java-1.52.0-linux-x64/dist/extension.js:2:865495
+	at mA.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41751)
+	at mA.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40828)
+	at mA.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:102115)
+	at t.executeJavaLanguageServerCommand (/home/mats/.vscode/extensions/vscjava.vscode-maven-0.45.1/dist/extension.js:2:760890)
+	at f.<anonymous> (/home/mats/.vscode/extensions/vscjava.vscode-maven-0.45.1/dist/extension.js:2:756838)
+	at Generator.next (<anonymous>)
+	at /home/mats/.vscode/extensions/vscjava.vscode-maven-0.45.1/dist/extension.js:2:755949
+	at new Promise (<anonymous>)
+	at r (/home/mats/.vscode/extensions/vscjava.vscode-maven-0.45.1/dist/extension.js:2:755694)
+	at f.initialize (/home/mats/.vscode/extensions/vscjava.vscode-maven-0.45.1/dist/extension.js:2:756736)
+	at f.getArtifactsCodeActions (/home/mats/.vscode/extensions/vscjava.vscode-maven-0.45.1/dist/extension.js:2:757634)
+	at Object.provideCodeActions (/home/mats/.vscode/extensions/vscjava.vscode-maven-0.45.1/dist/extension.js:2:756621)
+	at uv.provideCodeActions (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:145765)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:174181
+	at ni.G (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:169182)
+	at ni.$provideCodeActions (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:174169)
+	at AE.S (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125280)
+	at AE.Q (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125060)
+	at AE.M (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124111)
+	at AE.L (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123254)
+	at Kd.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122051)
+	at I.C (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Qo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9471)
+	at Kd.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:9336)
+	at I.C (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Qo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9471)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7570)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959) java.execute.workspaceCommand {"value":"redhat.java","_lower":"redhat.java"}
+2026-01-30 12:15:20.832 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2026-01-30 12:15:27.495 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-01-30 12:15:27.498 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-01-30 12:15:27.526 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2026-01-30 12:15:27.533 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2026-01-30 12:15:27.642 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2026-01-30 12:15:27.648 [info] ExtensionService#_doActivateExtension tonybaloney.vscode-pets, startup: false, activationEvent: 'onStartupFinished'
+2026-01-30 12:15:27.660 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2026-01-30 12:15:27.942 [info] Eager extensions activated
+2026-01-30 12:15:28.910 [error] Error: ENOENT: no such file or directory, open '/home/mats/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2026-01-30 12:18:57.514 [error] Error: ENOENT: no such file or directory, lstat '/home/mats/projects/cardgame/CardGame/src/main/java/com/cardgame/Main.java.git'
+2026-01-30 12:23:29.759 [error] Error: ENOENT: no such file or directory, lstat '/home/mats/projects/cardgame/CardGame/src/main/java/com/cardgame/Main.java.git'
+2026-01-30 12:31:39.272 [error] Error: ENOENT: no such file or directory, lstat '/home/mats/projects/cardgame/CardGame/src/main/java/com/cardgame/Main.java.git'
+2026-01-30 12:31:41.354 [error] Error: ENOENT: no such file or directory, lstat '/home/mats/projects/cardgame/CardGame/src/main/java/com/cardgame/Main.java.git'
