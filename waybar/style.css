@@ -19,8 +19,33 @@ window#waybar {
   font-size: 30px;
 }
 
+
+/* Workspace 1 - Spotify Green */
+#workspaces button:nth-child(1) {
+    color: #1DB954;  /* Spotify green */
+}
+
+/* Workspace 2 - Royal Blue */
+#workspaces button:nth-child(2) {
+    color: #4169E1;  /* Royal blue */
+}
+
+/* Workspace 3 - Yellow */
+#workspaces button:nth-child(3) {
+    color: #FFD700;  /* Gold/yellow */
+}
+
+/* Workspace 4 - YouTube Red */
+#workspaces button:nth-child(4) {
+    color: #FF0000;  /* YouTube red */
+}
+
+/* Workspace 5 - Purple */
+#workspaces button:nth-child(5) {
+    color: #9370DB;  /* Medium purple */
+}
+
 #workspaces button.active {
-  color: rgba(51, 204, 255, 1);
 }
 
 .modules-left {
