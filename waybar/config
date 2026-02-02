@@ -11,11 +11,11 @@
   "hyprland/workspaces": {
     "format": "{icon}",
     "format-icons": {
-      "default": "",
-      "active": "",
+      "default": "󰄰",
+      "active": "",
         "1": "", 
-        "2": "",  
-        "3": "",
+        "2": "󱁍",  
+        "3": "󱡝",
         "4": "",
     },
     "persistent-workspaces": {
