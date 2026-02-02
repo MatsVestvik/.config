@@ -8,6 +8,7 @@
 !/waypaper/
 !/hypr/
 !/kitty/
+!/neofetch/
 
 # Don't ignore the contents of these directories
 !/.gitignore
@@ -16,3 +17,4 @@
 !/waypaper/**
 !/hypr/**
 !/kitty/**
+!/neofetch/**
