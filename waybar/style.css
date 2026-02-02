@@ -1,6 +1,5 @@
 * {
     border: none;
-    font-size: 20px;
     font-family: "FiraCode Nerd Font";  
     font-weight: normal;
 }
@@ -9,21 +8,32 @@ window#waybar {
   border: 5px solid transparent;
   background-clip: padding-box;
 }
+
 #waybar {
   background: rgba(0, 0, 0, 0.3);
   margin: 5px 5px 5px 0px;
   border-radius: 15px 15px 15px 15px;
 }
 
+#workspaces button {
+  font-size: 30px;
+}
+
+#workspaces button.active {
+  color: rgba(51, 204, 255, 1);
+}
+
 .modules-left {
-  margin-top: 10px;
+  margin-top: 30px;
+  font-size: 30px;
 }
 
 .modules-center {
-  min-width: 40px;
+  min-width: 60px;
 }
 
 .modules-right {
+  font-size: 30px;
 }
 
 #battery {
