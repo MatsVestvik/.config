@@ -18,6 +18,40 @@ require("lazy").setup({
   spec = {
     -- add LazyVim and import its plugins
     { "LazyVim/LazyVim", import = "lazyvim.plugins" },
+
+    -- trying to add java
+    { import = "lazyvim.plugins.extras.lang.java" },
+    { import = "lazyvim.plugins.extras.ui.mini-animate" },
+
+    -- IMPORTANT: Add transparency plugin here
+    {
+      "xiyaowong/transparent.nvim",
+      lazy = false,
+      priority = 1000, -- Load early
+      config = function()
+        require("transparent").setup({
+          enable = true, -- enable transparency
+          extra_groups = {
+            "NormalFloat", -- make floating windows transparent
+            "BufferLineTabClose",
+            "BufferlineBufferSelected",
+            "BufferLineFill",
+            "BufferLineBackground",
+            "BufferLineSeparator",
+            "BufferLineIndicatorSelected",
+            "NvimTreeNormal", -- if you use nvim-tree
+            "NeoTreeNormal", -- if you use neo-tree
+            "TelescopeNormal", -- make telescope transparent
+            "TelescopeBorder",
+            "NotifyBackground", -- make notifications transparent
+            "WhichKeyFloat", -- make which-key transparent
+            "LazyNormal", -- make lazy.nvim ui transparent
+          },
+          exclude = {}, -- groups you don't want to clear
+        })
+      end,
+    },
+
     -- import/override with your plugins
     { import = "plugins" },
   },
