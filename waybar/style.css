@@ -51,6 +51,7 @@ window#waybar {
 .modules-left {
   margin-top: 30px;
   font-size: 30px;
+  color: #00ff99;
 }
 
 .modules-center {
@@ -65,7 +66,23 @@ window#waybar {
   font-size: 18px;
 }
 
+#pulseaudio{
+  font-size: 30px;
+}
+
+#network{
+  padding-left: 8px;
+  font-size: 30px;
+  color: #4169E1;
+}
+
+#cpu{
+  font-size:20px;
+} 
+
 #hyprland-workspaces {
   padding: 10px;
 }
+
+
 

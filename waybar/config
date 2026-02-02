@@ -6,7 +6,7 @@
   
   "modules-left": ["custom/hour-tens", "custom/hour-ones","custom/colon", "custom/minute-tens", "custom/minute-ones"],
   "modules-center": ["hyprland/workspaces"],
-  "modules-right": ["battery"],
+  "modules-right": ["cpu","network", "pulseaudio", "battery"],
   
   "hyprland/workspaces": {
     "format": "{icon}",
@@ -56,8 +56,36 @@
   // Battery module configuration
   "battery": {
       "format": "{capacity}%",
-      "format-charging": "<span foreground='#ffee00'>{icon} {capacity}%</span>",
+      "format-charging": "<span foreground='#ffee00'>{icon} {capacity}󱐋</span>",
       "interval": 10
+  },
+
+  "pulseaudio": {
+    "format": "{icon}",
+    "format-muted": "󰖁",
+    "format-icons": {
+    "default": ["󰕿", "󰖀", "󰕾"]
+  },
+  "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
+  "on-click-right": "pavucontrol",
+  "scroll-step": 1,
+  "tooltip": false
+  },
+
+  "network": {
+    "format": "{ifname}",
+    "format-wifi": "󰖩 ",
+    "format-ethernet": "󰈀 {ifname}",
+    "format-disconnected": "󰖪 Disconnected",
+    "format-linked": "󰖪 {ifname} (No IP)",
+    "tooltip-format": "{ifname} via {gwaddr} ({ipaddr}/{cidr})\n{essid} ({signalStrength}%)",
+    "on-click": "nm-connection-editor",  // Opens connection manager
+    "on-click-right": "alacritty -e nmtui"  // Terminal-based manager
+  },
+
+  "cpu": {
+    "format": "{usage}%",
+    "interval": 2
   }
 }
 
