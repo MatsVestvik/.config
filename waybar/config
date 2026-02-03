@@ -56,7 +56,7 @@
   // Battery module configuration
   "battery": {
       "format": "{capacity}%",
-      "format-charging": "<span foreground='#ffee00'>{icon} {capacity}󱐋</span>",
+      "format-charging": "<span foreground='#EED49F'>{icon} {capacity}󱐋</span>",
       "interval": 10
   },
 
@@ -75,9 +75,8 @@
   "network": {
     "format": "{ifname}",
     "format-wifi": "󰖩 ",
-    "format-ethernet": "󰈀 {ifname}",
-    "format-disconnected": "󰖪 Disconnected",
-    "format-linked": "󰖪 {ifname} (No IP)",
+    "format-ethernet": "󰈀 ",
+    "format-disconnected": "󰖪 ",
     "tooltip-format": "{ifname} via {gwaddr} ({ipaddr}/{cidr})\n{essid} ({signalStrength}%)",
     "on-click": "nm-connection-editor",  // Opens connection manager
     "on-click-right": "alacritty -e nmtui"  // Terminal-based manager

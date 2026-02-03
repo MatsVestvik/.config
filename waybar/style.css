@@ -10,7 +10,7 @@ window#waybar {
 }
 
 #waybar {
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(36, 39, 58, 0.7);
   margin: 5px 5px 5px 0px;
   border-radius: 15px 15px 15px 15px;
 }
@@ -22,27 +22,27 @@ window#waybar {
 
 /* Workspace 1 - Spotify Green */
 #workspaces button:nth-child(1) {
-    color: #1DB954;  /* Spotify green */
+    color: #A6DA95;  /* Spotify green */
 }
 
 /* Workspace 2 - Royal Blue */
 #workspaces button:nth-child(2) {
-    color: #4169E1;  /* Royal blue */
+    color: #8BD5CA;  /* Royal blue */
 }
 
 /* Workspace 3 - Yellow */
 #workspaces button:nth-child(3) {
-    color: #FFD700;  /* Gold/yellow */
+    color: #EED49F;  /* Gold/yellow */
 }
 
 /* Workspace 4 - YouTube Red */
 #workspaces button:nth-child(4) {
-    color: #FF0000;  /* YouTube red */
+    color: #ED8796;  /* YouTube red */
 }
 
 /* Workspace 5 - Purple */
 #workspaces button:nth-child(5) {
-    color: #9370DB;  /* Medium purple */
+    color: #F5BDE6;  /* Medium purple */
 }
 
 #workspaces button.active {
@@ -51,33 +51,38 @@ window#waybar {
 .modules-left {
   margin-top: 30px;
   font-size: 30px;
-  color: #00ff99;
+  color: #8AADF4;
 }
 
 .modules-center {
   min-width: 60px;
+  padding-right: 8px;
 }
 
 .modules-right {
+  margin-bottom: 10px;
   font-size: 30px;
 }
 
 #battery {
   font-size: 18px;
+  color: #B8C0E0;
 }
 
 #pulseaudio{
   font-size: 30px;
+  color: #B8C0E0;
 }
 
 #network{
   padding-left: 8px;
   font-size: 30px;
-  color: #4169E1;
+  color: #8AADF4;
 }
 
 #cpu{
   font-size:20px;
+  color: #B8C0E0;
 } 
 
 #hyprland-workspaces {
