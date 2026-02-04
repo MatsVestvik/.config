@@ -2,11 +2,11 @@
 show=drun
 prompt=Search...
 width=20%
-height=99%
+height=100%
 location=top_left
 lines=0
 columns=0
-allow_images=true
+allow_images=false
 
 # Behavior
 insensitive=true
