@@ -1,11 +1,11 @@
 # General settings
 show=drun
 prompt=Search...
-width=40%
-height=30%
-location=center
-lines=10
-columns=1
+width=20%
+height=99%
+location=top_left
+lines=0
+columns=0
 allow_images=true
 
 # Behavior
