@@ -9,6 +9,7 @@
 !/hypr/
 !/kitty/
 !/neofetch/
+!/wofi/
 
 # Don't ignore the contents of these directories
 !/.gitignore
@@ -18,3 +19,4 @@
 !/hypr/**
 !/kitty/**
 !/neofetch/**
+!/wofi/**
