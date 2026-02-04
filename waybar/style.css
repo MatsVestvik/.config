@@ -5,14 +5,11 @@
 }
 
 window#waybar {
-  border: 5px solid transparent;
   background-clip: padding-box;
 }
 
 #waybar {
   background: rgba(36, 39, 58, 0.7);
-  margin: 5px 5px 5px 0px;
-  border-radius: 15px 15px 15px 15px;
 }
 
 #workspaces button {
