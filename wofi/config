@@ -23,3 +23,5 @@ key_down=Down,j
 key_left=Left,h
 key_right=Right,l
 key_accept=Return
+
+animation=slide
